@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "install": {
+      "version": "0.10.0",
+      "resolved": "https://registry.npmjs.org/install/-/install-0.10.0.tgz",
+      "from": "install@0.10.0"
+    },
+    "lru-cache": {
+      "version": "4.0.2",
+      "resolved": "https://registry.npmjs.org/lru-cache/-/lru-cache-4.0.2.tgz",
+      "from": "lru-cache@>=4.0.1 <4.1.0"
+    },
+    "optimism": {
+      "version": "0.3.3",
+      "resolved": "https://registry.npmjs.org/optimism/-/optimism-0.3.3.tgz",
+      "from": "optimism@0.3.3"
+    },
+    "pseudomap": {
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/pseudomap/-/pseudomap-1.0.2.tgz",
+      "from": "pseudomap@>=1.0.1 <2.0.0"
+    },
+    "yallist": {
+      "version": "2.1.2",
+      "resolved": "https://registry.npmjs.org/yallist/-/yallist-2.1.2.tgz",
+      "from": "yallist@>=2.0.0 <3.0.0"
+    }
+  }
+}
